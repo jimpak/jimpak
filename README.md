@@ -16,6 +16,6 @@
 <p>
  <img alt="JetBrains" src="https://img.shields.io/badge/-JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white" />
  <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
- <img alt="Blender" src="https://img.shields.io/badge/-Blender-6DB33F?style=flat-square&logo=blender&logoColor=white" />
- <img alt="Unity" src="https://img.shields.io/badge/-Unity-6DB33F?style=flat-square&logo=unity&logoColor=white" />
+ <img alt="Blender" src="https://img.shields.io/badge/-Blender-F05032?style=flat-square&logo=blender&logoColor=white" />
+ <img alt="Unity" src="https://img.shields.io/badge/-Unity-007ACC?style=flat-square&logo=unity&logoColor=white" />
 </p>
