@@ -6,12 +6,14 @@
  <li> 2022.03~ : <a href="http://vaiv.kr/">(주)바이브컴퍼니</a></li>
 </ul>
  
-### Skills
+<h3>Skills</h3>
 
+ <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-45b8d8?style=flat-square&logo=springboot&logoColor=white" />
+ 
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white "SpringBoot")
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white "PostgreSQL")
  
-### Using
+<h3>Using</h3>
 
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=white "JetBrains")
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white "Visual Studio")
