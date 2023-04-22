@@ -8,13 +8,14 @@
  
 <h3>Skills</h3>
 <p>
- <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+ <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 <h3>Using</h3>
 <p>
- <img alt="JetBrains" src="https://img.shields.io/badge/-JetBrains-6DB33F?style=flat-square&logo=JetBrains&logoColor=white" />
- <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-6DB33F?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
- <img alt="Windows" src="https://img.shields.io/badge/-Windows-6DB33F?style=flat-square&logo=Windows&logoColor=white" />
+ <img alt="JetBrains" src="https://img.shields.io/badge/-JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white" />
+ <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+ <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+ <img alt="Blender" src="https://img.shields.io/badge/-Blender-6DB33F?style=flat-square&logo=blender&logoColor=white" />
 </p>
