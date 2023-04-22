@@ -8,7 +8,7 @@
  
 <h3>Skills</h3>
 
- <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-45b8d8?style=flat-square&logo=springboot&logoColor=white" />
+ <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
  
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white "SpringBoot")
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white "PostgreSQL")
