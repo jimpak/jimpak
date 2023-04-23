@@ -8,6 +8,7 @@
  
 <h3>Skills</h3>
 <p>
+ <img alt="Java" src="https://img.shields.io/badge/-Java-6DB33F?style=flat-square&logo=java&logoColor=white" />
  <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
