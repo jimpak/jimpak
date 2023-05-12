@@ -16,7 +16,8 @@
 <h3>Using</h3>
 <p>
  <img alt="JetBrains" src="https://img.shields.io/badge/-JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white" />
- <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+ <img alt="3dsMax" src="https://img.shields.io/badge/-3dsMax-0078D6?style=flat-square&logo=3dsmax&logoColor=white" />
  <img alt="Blender" src="https://img.shields.io/badge/-Blender-F9A03C?style=flat-square&logo=blender&logoColor=white" />
+ <img alt="Adobe" src="https://img.shields.io/badge/-Adobe-F9A03C?style=flat-square&logo=adobe&logoColor=white" />
  <img alt="Unity" src="https://img.shields.io/badge/-Unity-B7178C?style=flat-square&logo=unity&logoColor=white" />
 </p>
