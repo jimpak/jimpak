@@ -1,10 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Jungmin Park (박정민)</h1>
 
-<h3>Experiences</h3>
-<ul>
- <li> 2009.03~2015.8 : 동명대학교 미디어공학과 학사</li>
- <li> 2022.03~ : <a href="http://vaiv.kr/">(주)바이브컴퍼니</a></li>
-</ul>
+
 
 ### Skills
 
@@ -26,3 +22,14 @@
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white "Unity")
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white "Blender")
 ![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white "Adobe")
+
+
+### Experiences
+- 2009.03~2015.08 : [Department of Media Engineering, Dongmyeong University]
+- 2022.03~2023.09: [Vive Company](http://vaiv.kr/)
+
+<h3>Experiences</h3>
+<ul>
+ <li> 2009.03~2015.8 : Department of Media Engineering, Dongmyeong University</li>
+ <li> 2022.03~ : <a href="http://vaiv.kr/">(주)바이브컴퍼니</a></li>
+</ul>
