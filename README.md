@@ -1,13 +1,23 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Jungmin Park (박정민)</h1>
 
 
-![GitHub followers](https://img.shields.io/github/followers/jimpak?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/jimpak?label=Stars&style=social)
-![GitHub forks](https://img.shields.io/github/forks/jimpak?label=Forks&style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/jimpak?label=Watchers&style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/jimpak?label=Last%20Commit&style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/jimpak?label=Issues&style=flat-square)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/jimpak?label=Pull%20Requests&style=flat-square)
+<p align="center">
+  <a href="https://github.com/jimpak">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jimpak&theme=transparent" />
+  </a>
+  <a href="https://github.com/jimpak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimpak&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/jimpak">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jimpak&theme=transparent" />
+  </a>
+  <a href="https://github.com/jimpak">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jimpak&theme=transparent&utcOffset=8" />
+  </a> 
+  <a href="https://github.com/jimpak">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimpak&theme=transparent&layout=compact&size_weight=0.5&count_weight=0.4&langs_count=8&hide=jupyter%20notebook,CSS,HTML,SCSS" />
+  </a>
+</p>
 
 
 ### Skills
