@@ -5,18 +5,25 @@
  <li> 2009.03~2015.8 : 동명대학교 미디어공학과 학사</li>
  <li> 2022.03~ : <a href="http://vaiv.kr/">(주)바이브컴퍼니</a></li>
 </ul>
- 
-<h3>Skills</h3>
-<p>
- <img alt="Java" src="https://img.shields.io/badge/-Java-F05032?style=flat-square&logo=java&logoColor=white" />
- <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
- <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
 
-<h3>Using</h3>
-<p>
- <img alt="JetBrains" src="https://img.shields.io/badge/-JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white" />
- <img alt="Unity" src="https://img.shields.io/badge/-Unity-666666?style=flat-square&logo=unity&logoColor=white" />
- <img alt="Blender" src="https://img.shields.io/badge/-Blender-FF6600?style=flat-square&logo=blender&logoColor=white" />
- <img alt="Adobe" src="https://img.shields.io/badge/-Adobe-CC3300?style=flat-square&logo=adobe&logoColor=white" />
-</p>
+### Skills
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white "Java")
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white "Spring")
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white "SpringBoot")
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white "MySQL")
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white "React")
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white "Node.js")
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white "Python")
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white "Kotlin")
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white "Android")
+
+
+### Using
+
+![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white "JetBrains")
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white "Visual Studio Code")
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white "Android Studio")
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white "Unity")
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white "Blender")
+![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white "Adobe")
