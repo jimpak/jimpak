@@ -1,6 +1,14 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Jungmin Park (박정민)</h1>
 
 
+![GitHub followers](https://img.shields.io/github/followers/jimpak?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/jimpak?label=Stars&style=social)
+![GitHub forks](https://img.shields.io/github/forks/jimpak?label=Forks&style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/jimpak?label=Watchers&style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/jimpak?label=Last%20Commit&style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/jimpak?label=Issues&style=flat-square)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/jimpak?label=Pull%20Requests&style=flat-square)
+
 
 ### Skills
 
