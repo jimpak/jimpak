@@ -44,4 +44,4 @@
 
 ### Experiences
 - 2009.03~2015.08 : [Department of Media Engineering, Dongmyeong University]
-- 2022.03~2023.09: [Vive Company](http://vaiv.kr/)
+- 2022.03~2023.09: [Vaiv Company](http://vaiv.kr/)
